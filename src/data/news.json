@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Hello, This is a post 1 title",
+    "desc": "Hello this is a post 1 detail",
+    "imageLink": "https://picsum.photos/id/41/400/400",
+    "link": "/news/1"
+  },
+  {
+    "id": 2,
+    "title": "Hello, This is a post 2 title",
+    "desc": "Hello this is a post 2 detail",
+    "imageLink": "https://picsum.photos/id/42/400/400",
+    "link": "/news/2"
+  },
+  {
+    "id": 3,
+    "title": "Hello, This is a post 3 title",
+    "desc": "Hello this is a post 3 detail",
+    "imageLink": "https://picsum.photos/id/43/400/400",
+    "link": "/news/3"
+  },
+  {
+    "id": 4,
+    "title": "Hello, This is a post 4 title",
+    "desc": "Hello this is a post 4 detail",
+    "imageLink": "https://picsum.photos/id/44/400/400",
+    "link": "/news/4"
+  },
+  {
+    "id": 5,
+    "title": "Hello, This is a post 5 title",
+    "desc": "Hello this is a post 5 detail",
+    "imageLink": "https://picsum.photos/id/45/400/400",
+    "link": "/news/5"
+  },
+  {
+    "id": 6,
+    "title": "Hello, This is a post 6 title",
+    "desc": "Hello this is a post 6 detail",
+    "imageLink": "https://picsum.photos/id/46/400/400",
+    "link": "/news/6"
+  },
+  {
+    "id": 7,
+    "title": "Hello, This is a post 7 title",
+    "desc": "Hello this is a post 7 detail",
+    "imageLink": "https://picsum.photos/id/47/400/400",
+    "link": "/news/7"
+  },
+  {
+    "id": 8,
+    "title": "8th title Hello, This is a post 7 title",
+    "desc": "8th detail Hello this is a post 7 detail",
+    "imageLink": "https://picsum.photos/id/48/400/400",
+    "link": "/news/8"
+  }
+]
