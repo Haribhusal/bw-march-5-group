@@ -42,7 +42,7 @@ const NewsList = () => {
 
   // console.log(newsData);
   return (
-    <div className="newsList">
+    <div className="newsList px-10 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10 py-10 bg-blue-200">
       {/* <h1>{name}</h1>
       <button onClick={() => setName("Test Name")}>Change Name</button> */}
       {/* {posts.map((item) => (
@@ -50,7 +50,12 @@ const NewsList = () => {
       ))} */}
 
       {fetchedPosts.map((item) => (
-        <NewsItem myTitle={item.title} desc={item.body} />
+        <NewsItem
+          key={item.id}
+          myTitle={item.title}
+          desc={item.body}
+          id={item.id}
+        />
       ))}
     </div>
   );
